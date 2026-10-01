@@ -89,5 +89,96 @@
     "workflow": "upgrade-local-cluster",
     "job": "v2-16",
     "timestamp": "2026-09-30T21:58:59Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "arm64-cluster-provisioning",
+    "job": "v2-14",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "arm64-cluster-provisioning",
+    "job": "v2-15",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "arm64-cluster-provisioning",
+    "job": "v2-16",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "capi-pnp-cluster-provisioning",
+    "job": "v2-15",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "capi-pnp-cluster-provisioning",
+    "job": "v2-16",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "cluster-provisioning",
+    "job": "v2-14",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "cluster-provisioning",
+    "job": "v2-15",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "cluster-provisioning",
+    "job": "v2-16",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "day2-ops-capi-pnp",
+    "job": "v2-15",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "day2-ops-capi-pnp",
+    "job": "v2-16",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "upgrade-local-cluster",
+    "job": "v2-14",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "upgrade-local-cluster",
+    "job": "v2-15",
+    "timestamp": "2026-10-01T04:47:02Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "upgrade-local-cluster",
+    "job": "v2-16",
+    "timestamp": "2026-10-01T04:47:02Z"
   }
 ]
